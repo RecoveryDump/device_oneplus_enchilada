@@ -1,0 +1,20 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.bootimage.brand=OnePlus
+ro.product.bootimage.device=OnePlus6T
+ro.product.bootimage.manufacturer=OnePlus
+ro.product.bootimage.model=ONEPLUS A6013
+ro.product.bootimage.name=OnePlus6T
+ro.bootimage.build.date=Sat Jan 21 12:23:56 UTC 2023
+ro.bootimage.build.date.utc=1674303836
+ro.bootimage.build.fingerprint=google/cheetah/cheetah:13/TQ1A.230105.002.A1/9409646:user/release-keys
+ro.bootimage.build.id=TQ1A.230105.002.A1
+ro.bootimage.build.tags=release-keys
+ro.bootimage.build.type=userdebug
+ro.bootimage.build.version.incremental=1674303919
+ro.bootimage.build.version.release=13
+ro.bootimage.build.version.release_or_codename=13
+ro.bootimage.build.version.sdk=33
+# end of file

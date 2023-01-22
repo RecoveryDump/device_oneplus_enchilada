@@ -1,0 +1,19 @@
+boot magic: ANDROID!
+kernel_size: 15309030
+kernel load address: 0x00008000
+ramdisk size: 14722573
+ramdisk load address: 0x01000000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x00000100
+page size: 4096
+os version: 13.0.0
+os patch level: 2023-01
+boot image header version: 1
+product name: 
+command line args: androidboot.hardware=qcom androidboot.console=ttyMSM0 androidboot.boot_devices=soc/1d84000.ufshc msm_rtb.filter=0x237 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 service_locator.enable=1 swiotlb=2048 androidboot.configfs=true androidboot.usbcontroller=a600000.dwc3 firmware_class.path=/vendor/firmware_mnt/image kpti=off loop.max_part=7 androidboot.super_partition=system buildvariant=userdebug
+additional command line args: 
+recovery dtbo size: 0
+recovery dtbo offset: 0x0000000000000000
+boot header size: 1648
+ramdisk format: gzip
